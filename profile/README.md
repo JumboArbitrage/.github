@@ -13,5 +13,5 @@ Most of the warehouses are now closed source, and there will be some open source
 
 🌈 If you are interested in blockchain and Ethereum development, and have certain related technology stacks such as solidity development, js development, golang development, etc., welcome to join us ! 👇
 
-📨 Contact me at [**2441164168lhd@gmail.com**](), [**yifeiliang@hust.edu.cn**]() .
+📨 Contact me at [**haodong.lu.me@gmail.com**](), [**yifeiliang@hust.edu.cn**]() .
 
