@@ -9,7 +9,7 @@
 
 🙋‍♀️ We are a **student team** focus on some interesting things about **arbitrage of ETH**.
 Our main work is to develop **a new arbitrage platform** relying on Ethereum, which is being gradually developed.  
-Most of the warehouses are now closed source, and there will be some open source sharing in the future.
+💻 **Most of the warehouses are now closed source, and there will be some open source sharing in the future.**
 
 🌈 If you are interested in blockchain and Ethereum development, and have certain related technology stacks such as solidity development, js development, golang development, etc., welcome to join us ! 👇
 
