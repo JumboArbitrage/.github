@@ -13,5 +13,5 @@ Our main work is to develop **a new arbitrage platform** relying on Ethereum, wh
 
 🌈 If you are interested in blockchain and Ethereum development, and have certain related technology stacks such as solidity development, js development, golang development, etc., welcome to join us ! 👇
 
-📨 Contact me at [**haodong.lu.me@gmail.com**](), [**yifeiliang@hust.edu.cn**]() .
+📨 **Contact us** at [**haodong.lu.me@gmail.com**](), [**yifeiliang@hust.edu.cn**]() .
 
